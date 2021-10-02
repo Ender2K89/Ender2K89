@@ -5,7 +5,7 @@
 - Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 ### This is me on discord:
-![Discord](https://discord.c99.nl/widget/theme-2/564890536947875868.png)
+![Discord](https://discord.c99.nl/widget/theme-3/564890536947875868.png)
 
 ### This is my discord server:
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
