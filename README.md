@@ -11,4 +11,4 @@
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
 
 # Here's my GitHub stats:
-<img alt="Jaime's GitHub Stats" height="156em" src="https://github-readme-stats.vercel.app/api?username=Ender2K89&bg_color=30,e96443,4839a3&title_color=79D9F9&text_color=79D9F9&show_icons=true&theme=github_dark">
+[![Ender2K89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ender2K89)](https://github.com/anuraghazra/github-readme-stats)
