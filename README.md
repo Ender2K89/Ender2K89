@@ -8,7 +8,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/564890536947875868.png)
 
 # This is my discord server:
-[![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)(https://discord.gg/ktkXwmD2kF)
+[![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
 
 # Here's my GitHub stats:
-![Ender2K89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)
+[![Ender2K89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)]
