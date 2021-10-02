@@ -5,6 +5,10 @@
 - Minecraft Server: [invite](https://discord.gg/JHG7Pejyhc) server address: play.classic-smp.com
 
 ### This is me on discord:
+<p align="left">
+    <img alt="My Stats" height="160em"  src="https://discord.c99.nl/widget/theme-2/564890536947875868.png">
+</p>
+
 ![Discord](https://discord.c99.nl/widget/theme-2/564890536947875868.png)
 
 ### This is my discord server:
