@@ -1,8 +1,8 @@
 # Hello there! I'm ender and I like to make discord bots.
 
 ### I'm currently working on:
-- Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot) [source code](https://github.com/Ender2K89/Stealth-Bot)
-- Minecraft Server: [invite](https://discord.gg/JHG7Pejyhc) server address: play.classic-smp.com
+- Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot) | [source code](https://github.com/Ender2K89/Stealth-Bot)
+- Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 ### This is me on discord:
 ![Discord](https://discord.c99.nl/widget/theme-2/564890536947875868.png)
