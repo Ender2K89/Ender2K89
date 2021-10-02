@@ -10,8 +10,5 @@
 ### This is my discord server:
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
 
-### Here's my GitHub stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)
-<p align="left">
-    <img alt="My Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true">
-</p>
+### Here are my GitHub stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)
