@@ -5,7 +5,7 @@
 - Minecraft Server: [invite](https://discord.gg/JHG7Pejyhc) server address: play.classic-smp.com
 
 # This is me on discord:
-![Discord](https://discord.c99.nl/widget/theme-3/349373972103561218.png)
+![Discord](https://discord.c99.nl/widget/theme-3/564890536947875868.png)
 
 # This is my discord server:
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
