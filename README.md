@@ -3,7 +3,7 @@
 
 ## I'm currently working on:
 
-- Stealth Bot: [![Top.gg](https://avatars.githubusercontent.com/u/34552786?s=280&v=4)](https://top.gg/bot/760179628122964008) | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
+- Stealth Bot: <img align="left" alt="PyCharm" width="26px" src="https://avatars.githubusercontent.com/u/34552786?s=280&v=4"/> | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
 - Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 
