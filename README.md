@@ -3,13 +3,13 @@
 
 ## I'm currently working on:
 
-- Stealth Bot: ![top.gg](https://top.gg/bot/760179628122964008) | ![invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
-- Minecraft Server: ![discord](https://discord.gg/JHG7Pejyhc)
+- Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
+- Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 
 ## My discord
 
-![discord](https://discord.c99.nl/widget/theme-3/564890536947875868.png)
+[discord](https://discord.c99.nl/widget/theme-3/564890536947875868.png)
 
 
 ## My discord servers
