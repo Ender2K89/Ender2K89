@@ -14,9 +14,10 @@
 
 ## My discord servers
 
-[![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF) [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
+[![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
+[![SignalPvP](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Signal%20PvP)](https://discord.gg/JHG7Pejyhc)
 
-[![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF) [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
+[![Stealth Bot Support](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Bot%20Support)](https://discord.gg/MrBcA6PZPw)
 
 
 ## Technologies and tools I work with
