@@ -26,8 +26,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wo
 
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
 
-### My GitHub statistics
+# My GitHub statistics
 
-### Here are my GitHub stats:
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=Ender2K89&theme=material-palenight&work=work">
