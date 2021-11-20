@@ -1,20 +1,24 @@
 # Hello there! I'm Ender!
 
 
-### I'm currently working on:
+## I'm currently working on:
+
 - Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot) | [source code](https://github.com/Ender2K89/Stealth-Bot)
 - Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 
-### My discord
+## My discord
+
 ![Discord](https://discord.c99.nl/widget/theme-3/564890536947875868.png)
 
 
-### My discord server
+## My discord server
+
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
 
 
-# Technologies and tools I work with
+## Technologies and tools I work with
+
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/>
 <img align="left" alt="Visual Studio Code - Insiders" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png"/>
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
@@ -23,6 +27,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
 
 
-# My GitHub statistics
+## My GitHub stats
+
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=Ender2K89&theme=material-palenight&work=work">
