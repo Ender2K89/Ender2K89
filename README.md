@@ -1,9 +1,5 @@
 # Hello there! I'm Ender!
 
-- I'm currently working on [Stealth Bot](https://top.gg/bot/760179628122964008)
-- I'm currently learning Python, HTML and CSS
-- Pronouns: he/him
-
 ### I'm currently working on:
 - Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot) | [source code](https://github.com/Ender2K89/Stealth-Bot)
 - Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
@@ -30,7 +26,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wo
 
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
 
-## My GitHub statistics
+### My GitHub statistics
 
 ### Here are my GitHub stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)
+
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=vue-dark&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=jEnder2K89&theme=vue-dark&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=Ender2K89&theme=vue-dark&layout=compact&work=yesyeshello">
