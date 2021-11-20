@@ -4,6 +4,7 @@
 ## I'm currently working on:
 
 <img align="left" alt="Stealth Bot" width="26px" src="https://cdn.discordapp.com/attachments/908757178893078609/911621200600498217/Stealth_Bot_Transparent_BG.png"/>Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://top.gg/bot/760179628122964008/invite)
+
 <img align="left" alt="Stealth Bot" width="26px" src="https://media.discordapp.net/attachments/908757178893078609/911621579367145523/StaticPvP_-_Copy.png"/>ClassicPvP (Minecraft Server): [discord](https://discord.gg/JHG7Pejyhc)
 
 
