@@ -14,8 +14,9 @@
 
 ## My discord servers
 
+<img align="left" alt="Stealth Hangout" width="26px" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Hangout"/>
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
-[![SignalPvP](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Signal%20PvP)](https://discord.gg/JHG7Pejyhc)
+[![SignalPvP](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=SignalPvP)](https://discord.gg/JHG7Pejyhc)
 [![Stealth Bot Support](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Bot%20Support)](https://discord.gg/MrBcA6PZPw)
 
 
