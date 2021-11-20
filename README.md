@@ -29,8 +29,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wo
 ### My GitHub statistics
 
 ### Here are my GitHub stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true)
-
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=vue-dark&show_icons=true&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=jEnder2K89&theme=vue-dark&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=Ender2K89&theme=vue-dark&layout=compact&work=yesyeshello">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=Ender2K89&theme=material-palenight&work=work">
