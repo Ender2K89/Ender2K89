@@ -34,4 +34,4 @@
 
 ## My GitHub stats
 
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true&work=work"> <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=Ender2K89&theme=material-palenight&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=Ender2K89&theme=material-palenight&show_icons=true&work=work">
