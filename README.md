@@ -15,16 +15,13 @@
 
 <img align="left" alt="Visual Studio Code - Insiders" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png"/>
 
-<img align="left" alt="Python" width="26px"
-src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
 
-<img align="left" alt="PostgreSQL" width="26px"
-src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/>
+<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/>
 
-<img align="left" alt="HTML5" width="26px"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
 
-<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
 
 # My GitHub statistics
 
