@@ -3,7 +3,7 @@
 
 ## I'm currently working on:
 
-- <img align="left" alt="Stealth Bot" width="26px" src="https://images.discordapp.net/avatars/760179628122964008/c0e826f3717ef297a03ee1f9e65a93a1.png"/> Stealth Bot: | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
+- <img align="left" alt="Stealth Bot" width="26px" src="https://cdn.discordapp.com/attachments/908757178893078609/911621200600498217/Stealth_Bot_Transparent_BG.png"/>Stealth Bot: | [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
 - Minecraft Server: [discord](https://discord.gg/JHG7Pejyhc)
 
 
