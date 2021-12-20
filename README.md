@@ -5,7 +5,9 @@
 
 <img align="left" alt="Stealth Bot" width="26px" src="https://cdn.discordapp.com/attachments/908757178893078609/911621200600498217/Stealth_Bot_Transparent_BG.png"/>Stealth Bot: [top.gg](https://top.gg/bot/760179628122964008) | [invite](https://top.gg/bot/760179628122964008/invite)
 
-<img align="left" alt="Stealth Bot" width="26px" src="https://media.discordapp.net/attachments/908757178893078609/911621579367145523/StaticPvP_-_Copy.png"/>SignalPvP (Minecraft Server): [discord](https://discord.gg/JHG7Pejyhc)
+<img align="left" alt="Ayane" width="26px" src="https://avatars.githubusercontent.com/u/96107492?s=200&v=4"/>Ayane: [top.gg](https://top.gg/bot/) | [invite](https://discord.com/oauth2/authorize?client_id=919419834264076349&scope=applications.commands+bot&permissions=8)
+
+<img align="left" alt="FestivePvP" width="26px" src="https://media.discordapp.net/attachments/908757178893078609/911621579367145523/StaticPvP_-_Copy.png"/>FestivePvP (Minecraft Server): [discord](https://discord.gg/JHG7Pejyhc)
 
 
 ## My discord
