@@ -7,8 +7,6 @@
 
 <img align="left" alt="Ayane" width="26px" src="https://avatars.githubusercontent.com/u/96107492?s=200&v=4"/>Ayane: [top.gg](https://top.gg/bot/) | [invite](https://discord.com/oauth2/authorize?client_id=919419834264076349&scope=applications.commands+bot&permissions=8)
 
-<img align="left" alt="FestivePvP" width="26px" src="https://media.discordapp.net/attachments/908757178893078609/911621579367145523/StaticPvP_-_Copy.png"/>FestivePvP (Minecraft Server): [discord](https://discord.gg/JHG7Pejyhc)
-
 
 ## My discord
 
@@ -18,8 +16,6 @@
 ## My discord servers
 
 [![Stealth Hangout](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Hangout)](https://discord.gg/ktkXwmD2kF)
-[![FestivePvP](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=FestivePvP)](https://discord.gg/JHG7Pejyhc)
-[![Stealth Bot Support](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Stealth%20Bot%20Support)](https://discord.gg/MrBcA6PZPw)
 
 
 ## Technologies and tools I work with
